@@ -25,5 +25,8 @@ Measure a force of a pinch and display it's value. When the max value is reached
 | Resistor 20kR | 1 |
 
 ## Wiring
+![Wiring](https://github.com/user-attachments/assets/3b01581e-aac5-4f3c-8cdc-1a035aab2c4a)
 
 ## Demo
+https://github.com/user-attachments/assets/751582c6-fcf1-455c-b976-a5319450a756
+
