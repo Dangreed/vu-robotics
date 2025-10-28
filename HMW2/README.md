@@ -12,7 +12,8 @@ Everything is saved in a form of a struct:
 - Displayed sensor value (int).
 
 ## Timer
-- 
+- Set delay using variable TIMER_DELAY. Delay can be any value from 1ms to 250ms;
+- The delay will be converted to ticks, which will be used in timer CompareA register (OCR1A).
 
 ## Future improvements
 - Use an LCD screen instead of 7-segment display, to show more information;
